@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">InstagramLocal</string>
+
+    //Menu
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="logout">Log Out</string>
+    <string name="profile">Profile</string>
+
+    //Login
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="havent_account">You dont have an account?</string>
+    <string name="create_account">Create account</string>
+
+    //Registry
+    <string name="new_account">New Account</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+
+    //Home
+    <string name="new_post">New Post</string>
+
+    //NewPost
+    <string name="description">Description</string>
+    <string name="post">Post</string>
+</resources>
